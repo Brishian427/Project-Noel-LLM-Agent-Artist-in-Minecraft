@@ -1,0 +1,26 @@
+{
+  "name": "project-noel",
+  "version": "1.0.0",
+  "description": "Minecraft Agent following Silmaril architecture pattern",
+  "main": "agent.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "ai",
+    "agent"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mineflayer": "^4.15.0",
+    "mineflayer-pathfinder": "^2.4.3",
+    "openai": "^4.20.0",
+    "prismarine-nbt": "^2.8.0",
+    "vec3": "^0.1.3"
+  }
+}

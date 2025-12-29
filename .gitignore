@@ -1,0 +1,63 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+error_log.txt
+
+# Build outputs and temporary files
+*.txt
+!requirements.txt
+blueprint-output*.txt
+llm-blueprint-output.txt
+
+# Test files and temporary JSON
+assets/test_*.json
+assets/temp_*.json
+assets/*_output*.json
+blueprint.json
+
+# Generated model files (keep structure, ignore large files)
+assets/*.glb
+!assets/example*.glb
+assets/*.obj
+!assets/example*.obj
+
+# Litematic files (user-specific)
+*.litematic
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+.pytest_cache/
+.coverage
+htmlcov/

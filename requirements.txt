@@ -1,0 +1,6 @@
+trimesh>=3.15.0
+numpy>=1.24.0
+# scipy is optional but recommended - speeds up color matching in voxelizer_pbr.py
+# Install with: pip install scipy
+# scipy>=1.10.0
+
