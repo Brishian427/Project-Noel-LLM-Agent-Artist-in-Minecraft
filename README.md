@@ -1,7 +1,7 @@
 # Project Noël - Minecraft AI Agent
 
 Watch the demo - happy Christmas :)
-[![Youtube Video]()](https://www.youtube.com/watch?v=ype6F3Vlrp8)
+[![Demo Video](https://img.youtube.com/vi/ype6F3Vlrp8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ype6F3Vlrp8)
 
 A GPT-4o powered Minecraft agent that can build Christmas-themed structures using natural language commands. Features text-to-3D model generation via Tripo AI and automated voxelization pipeline.
 
